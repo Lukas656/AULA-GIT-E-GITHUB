@@ -14,3 +14,10 @@ GIT
     -- Segurança
     -- Organização
 
+Aula #02
+GitHub
+    -- Um Repositório Remoto e ilimitados
+    -- uma Plataforma onde voce cria participa de codigos e interage com outros desenvolvedores
+    -- Hospedagem de Codig-font de qualquer projeto e linguagem de programação
+    -- Caracteristicas de Rede Social
+    -- Colaboração com outros desenvolvedores
