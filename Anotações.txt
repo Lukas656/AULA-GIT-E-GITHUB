@@ -1,0 +1,16 @@
+Para que Serve o Git e GitHub ?
+Git e GitHub São Coisas Diferentes 
+
+GIt é um Software de Controle de Versão (VCS)
+VCS tem duas catracteristicas linear e distribuido e o Git se encaixa no distribuido
+
+Aula #01
+GIT 
+    -- Versionamento
+    -- Commit é Em resumo, um commit é uma ferramenta fundamental para o controle de versão de software, permitindo que os desenvolvedores registrem e gerenciem as mudanças em seus projetos de forma organizada e colaborativa.
+    -- Controle histórico
+    -- Trabalho em Equipe
+    -- Ramificação do Projetos
+    -- Segurança
+    -- Organização
+
