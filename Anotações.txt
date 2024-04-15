@@ -4,6 +4,8 @@ Git e GitHub São Coisas Diferentes
 GIt é um Software de Controle de Versão (VCS)
 VCS tem duas catracteristicas linear e distribuido e o Git se encaixa no distribuido
 
+######################################################################################################################################################
+
 Aula #01
 GIT 
     -- Versionamento
@@ -14,6 +16,8 @@ GIT
     -- Segurança
     -- Organização
 
+######################################################################################################################################################
+
 Aula #02
 GitHub
     -- Um Repositório Remoto e ilimitados
@@ -21,3 +25,33 @@ GitHub
     -- Hospedagem de Codig-font de qualquer projeto e linguagem de programação
     -- Caracteristicas de Rede Social
     -- Colaboração com outros desenvolvedores
+
+######################################################################################################################################################
+
+Aula #03
+Quem Veio primeiro ? Git ou GitHub
+    --História do Versionamento
+       CVS / 1985 / Centralizado / open Source / mais popular / Alguns Problemas (limitações não permitia atualizar , mudar nome pasta ...)
+       SVN / 2000 / Centralizado / open Source / Ativo até hj / CVS-like (caracteristicas do CVS)
+       Bitkeeper / 2000 / Proprietário / versão comunidade com algumas limitações / CVS-free (caracteristicas diferentes CVS) 
+         -- 2004 Foi desenvolvido um sourcePuller uma engenharia reversa que destravou alguns recursos do próprietario
+         -- 2005 Nova licença / Acesso a metadados / Só na versão comercial
+       Git / 2005 / Criado pelo Criasdor do Linux (Linus Torvalds) / distribuido / Open Source / feito em 10 dias (segundo relatos) / performace (nada igual aos anteriores) 
+         -- O que é GIT segundo Linus Torvalds que cada vez dava uma resposta diferente:
+         -- pode ser tres letras do alfabeto / não  prescisa ser um significado / não é uma palavra reservada nos comandos do linux e é uma palavra de facil pronuncia
+         -- Uma giria para uma pessoa teimosa, cabeça-dura, pensa que sempre está certo...
+         -- Se tiver num dia produtivo e usando muito pode chama-lo de Global Information tracker
+         -- se tiver num dia ruin que não funcionar como esperado chame-o de Goddam idiotic truckload of sh#t 😂
+        GitHub 2008  criado por Chris Wanstrath, Tom Preston-Werner, Scott Chacon e PJ Hyett
+         -- Proprietario
+         -- Hospedagem de Código 
+         -- baseado em GIT
+         -- 2009 46K Repositórios
+         -- 2010 100K users / 1M Repositórios
+         -- 2011 ultrapassou SourceForge (o maior na época)
+         -- 2013 3M users / 5M Repositórios
+         -- 2016 14º lugar na lista da Forbes
+         -- 2018 Maior ataque de DDoS da História (maior ataque de DDoS registrado na história)
+         -- 2018 Comprados pela Microsoft por US$ 7.5 Bilhões
+         -- 2020 GitHub compra a NPM
+ 
