@@ -54,4 +54,12 @@ Quem Veio primeiro ? Git ou GitHub
          -- 2018 Maior ataque de DDoS da História (maior ataque de DDoS registrado na história)
          -- 2018 Comprados pela Microsoft por US$ 7.5 Bilhões
          -- 2020 GitHub compra a NPM
- 
+
+######################################################################################################################################################
+
+Aula #04
+Instalar e Configurações importantes
+
+  O que presciso para instalar o Git e Github?
+    -- Um bom Navegador , e um editor de Código
+    -- SCM source coude manager
